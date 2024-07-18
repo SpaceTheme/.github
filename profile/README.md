@@ -1,1 +1,1 @@
-<img src="https://github.com/SpaceTheme/.github/blob/main/profile/img.png?raw=true" alt="banner" align="right" width="560px">
+<img src="../_assets/img/showcase.png" alt="banner" align="right" width="560px">
