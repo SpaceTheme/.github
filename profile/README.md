@@ -1,1 +1,0 @@
-<img src="../_assets/img/showcase.png" alt="banner" align="right" width="560px">
